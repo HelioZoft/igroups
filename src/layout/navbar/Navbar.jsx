@@ -33,7 +33,7 @@ const Navbar = () => {
                                 <div className="navbar-header navbar-header-custom">
                                    
                                     <a href="index.html" className="navbar-brand">
-                                        <img id="logo" src="img/logos/logo-inner.png" alt="logo" /></a>
+                                        <img id="logo" src="assets/img/logos/logo-inner.png" alt="logo" /></a>
                                      {/* end logo  */}
                                 </div>
 

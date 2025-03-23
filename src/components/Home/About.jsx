@@ -20,7 +20,7 @@ const About = () => {
                 </div>
                 <div className="col-lg-4 mt-1-6 mt-md-2-9 order-1 order-lg-2 wow fadeInUp" data-wow-delay="200ms">
                     <div>
-                        <img src="img/content/about-04.jpg" alt="..." className="border-radius-10" />
+                        <img src="assets/img/content/about-04.jpg" alt="..." className="border-radius-10" />
                     </div>
                 </div>
                 <div className="col-md-4 col-lg-2 mt-1-6 mt-md-2-9 order-3">

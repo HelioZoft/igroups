@@ -64,7 +64,7 @@ const Footer = () => {
                     <div className="row border-top border-color-light-white align-items-center pt-1-6 pb-1-9">
                         <div className="col-md-4 order-2 order-md-1 text-center text-md-start">
                             <div className="footer-logo text-center text-md-start mx-auto mx-lg-0">
-                                <a href="index.html"><img src="img/logos/footer-light-logo.png" alt="..." /></a>
+                                <a href="index.html"><img src="assets/img/logos/footer-light-logo.png" alt="..." /></a>
                             </div>
                         </div>
                         <div className="col-md-8 order-1 order-md-2">
