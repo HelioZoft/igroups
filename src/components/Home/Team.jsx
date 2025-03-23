@@ -12,7 +12,7 @@ const Team = () => {
                         <div className="col-md-6 col-lg-3 mt-1-9 wow fadeInUp" data-wow-delay="200ms">
                             <div className="team-style-01 border-radius-10">
                                 <div className="team-img">
-                                    <img src="img/team/team-01.jpg" alt="Image" />
+                                    <img src="assets/img/team/team-01.jpg" alt="Image" />
                                 </div>
                                 <div className="team-details position-relative py-1-6 text-center">
                                     <div className="team-social">
@@ -35,7 +35,7 @@ const Team = () => {
                         <div className="col-md-6 col-lg-3 mt-1-9 wow fadeInUp" data-wow-delay="350ms">
                             <div className="team-style-01 border-radius-10">
                                 <div className="team-img">
-                                    <img src="img/team/team-02.jpg" alt="Image" />
+                                    <img src="assets/img/team/team-02.jpg" alt="Image" />
                                 </div>
                                 <div className="team-details position-relative py-1-6 text-center">
                                     <div className="team-social">
@@ -58,7 +58,7 @@ const Team = () => {
                         <div className="col-md-6 col-lg-3 mt-1-9 wow fadeInUp" data-wow-delay="500ms">
                             <div className="team-style-01 border-radius-10">
                                 <div className="team-img">
-                                    <img src="img/team/team-03.jpg" alt="Image" />
+                                    <img src="assets/img/team/team-03.jpg" alt="Image" />
                                 </div>
                                 <div className="team-details position-relative py-1-6 text-center">
                                     <div className="team-social">
@@ -81,7 +81,7 @@ const Team = () => {
                         <div className="col-md-6 col-lg-3 mt-1-9 wow fadeInUp" data-wow-delay="650ms">
                             <div className="team-style-01 border-radius-10">
                                 <div className="team-img">
-                                    <img src="img/team/team-04.jpg" alt="Image" />
+                                    <img src="assets/img/team/team-04.jpg" alt="Image" />
                                 </div>
                                 <div className="team-details position-relative py-1-6 text-center">
                                     <div className="team-social">

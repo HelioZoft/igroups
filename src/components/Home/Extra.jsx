@@ -3,7 +3,7 @@ import React from 'react'
 const Extra = () => {
     return (
         <div>
-            <section className="extra-section01 pb-0 pt-24 bg-img cover-background overflow-visible dark-overlay" data-overlay-dark="4" data-background="img/bg/bg-01.jpg">
+            <section className="extra-section01 pb-0 pt-24 bg-img cover-background overflow-visible dark-overlay" data-overlay-dark="4" data-background="assets/img/bg/bg-01.jpg">
                 <div className="container-md pt-23">
                     <div className="row">
                         <div className="col-lg-9">

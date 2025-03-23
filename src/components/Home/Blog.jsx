@@ -14,7 +14,7 @@ const Blog = () => {
                         <div className="col-md-6 mt-1-9 wow fadeInUp" data-wow-delay="200ms">
                             <article className="card card-style05 h-100">
                                 <div className="blog-img position-relative overflow-hidden">
-                                    <img src="img/blog/blog-01.jpg" className="radius-top" alt="..." />
+                                    <img src="assets/img/blog/blog-01.jpg" className="radius-top" alt="..." />
                                 </div>
                                 <div className="card-body position-relative pt-2-6 pb-1-9 pb-xl-2-6 px-1-6 px-xl-2-4">
                                     <div className="post-date">
@@ -32,7 +32,7 @@ const Blog = () => {
                         <div className="col-md-6 mt-1-9 wow fadeInUp" data-wow-delay="350ms">
                             <article className="card card-style05 h-100">
                                 <div className="blog-img position-relative overflow-hidden">
-                                    <img src="img/blog/blog-02.jpg" className="radius-top" alt="..." />
+                                    <img src="assets/img/blog/blog-02.jpg" className="radius-top" alt="..." />
                                 </div>
                                 <div className="card-body position-relative pt-2-6 pb-1-9 pb-xl-2-6 px-1-6 px-xl-2-4">
                                     <div className="post-date">
@@ -117,7 +117,7 @@ const Blog = () => {
                                             <div className="form-group">
                                                 <div className="quform-captcha">
                                                     <div className="quform-captcha-inner">
-                                                        <img src="quform/images/captcha/courier-new-light.png" alt="..." />
+                                                        <img src="assets/quform/images/captcha/courier-new-light.png" alt="..." />
                                                     </div>
                                                 </div>
                                             </div>

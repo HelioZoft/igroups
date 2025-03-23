@@ -24,7 +24,7 @@ const Testimonial = () => {
                             <div className="row mt-n1-9 align-items-center">
                                 <div className="col-md-4 mt-1-9">
                                     <div>
-                                        <img src="img/avatars/avatar-10.jpg" alt="..." />
+                                        <img src="assets/img/avatars/avatar-10.jpg" alt="..." />
                                     </div>
                                 </div>
                                 <div className="col-md-8 mt-1-9">
@@ -43,7 +43,7 @@ const Testimonial = () => {
                             <div className="row mt-n1-9 align-items-center">
                                 <div className="col-md-4 mt-1-9">
                                     <div>
-                                        <img src="img/avatars/avatar-11.jpg" alt="..." />
+                                        <img src="assets/img/avatars/avatar-11.jpg" alt="..." />
                                     </div>
                                 </div>
                                 <div className="col-md-8 mt-1-9">
@@ -62,7 +62,7 @@ const Testimonial = () => {
                             <div className="row mt-n1-9 align-items-center">
                                 <div className="col-md-4 mt-1-9">
                                     <div>
-                                        <img src="img/avatars/avatar-12.jpg" alt="..." />
+                                        <img src="assets/img/avatars/avatar-12.jpg" alt="..." />
                                     </div>
                                 </div>
                                 <div className="col-md-8 mt-1-9">

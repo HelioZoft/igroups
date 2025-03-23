@@ -19,7 +19,7 @@ const Service = () => {
                 <div className="portfolio-carousel4 owl-carousel owl-theme">
                     <div className="card card-style02">
                         <div className="service-img">
-                            <img src="img/service/service-01.jpg" alt="..." />
+                            <img src="assets/img/service/service-01.jpg" alt="..." />
                             <div className="card-img-text">
                                 <span>Professional</span>
                             </div>
@@ -34,7 +34,7 @@ const Service = () => {
                     </div>
                     <div className="card card-style02">
                         <div className="service-img">
-                            <img src="img/service/service-02.jpg" alt="..." />
+                            <img src="assets/img/service/service-02.jpg" alt="..." />
                             <div className="card-img-text">
                                 <span>Business</span>
                             </div>
@@ -49,7 +49,7 @@ const Service = () => {
                     </div>
                     <div className="card card-style02">
                         <div className="service-img">
-                            <img src="img/service/service-03.jpg" alt="..." />
+                            <img src="assets/img/service/service-03.jpg" alt="..." />
                             <div className="card-img-text">
                                 <span>Wealth</span>
                             </div>
@@ -64,7 +64,7 @@ const Service = () => {
                     </div>
                     <div className="card card-style02">
                         <div className="service-img">
-                            <img src="img/service/service-04.jpg" alt="..." />
+                            <img src="assets/img/service/service-04.jpg" alt="..." />
                             <div className="card-img-text">
                                 <span>Treasury</span>
                             </div>
