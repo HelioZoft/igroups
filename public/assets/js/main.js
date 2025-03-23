@@ -21,7 +21,7 @@
         var o = t.scrollTop(),
             a = e(".navbar-brand img"),
             s = e(".navbar-brand.logodefault img");
-        o <= 175 ? (e("header").removeClass("scrollHeader").addClass("fixedHeader"), a.attr("src", "img/logos/logo-inner.png"), s.attr("src", "img/logos/logo.png")) : (e("header").removeClass("fixedHeader").addClass("scrollHeader"), a.attr("src", "img/logos/logo.png"), s.attr("src", "img/logos/logo.png"))
+        o <= 175 ? (e("header").removeClass("scrollHeader").addClass("fixedHeader"), a.attr("src", "assets/img/logos/logo-inner.png"), s.attr("src", "assets/img/logos/logo.png")) : (e("header").removeClass("fixedHeader").addClass("scrollHeader"), a.attr("src", "assets/img/logos/logo.png"), s.attr("src", "assets/img/logos/logo.png"))
     }), (() => {
         let t = () => {
             let t = document.documentElement.scrollTop,
