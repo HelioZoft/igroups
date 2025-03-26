@@ -3,7 +3,7 @@ import React from 'react'
 const Banner = () => {
   return (
     <div>
-        <section class="page-title-section bg-img cover-background dark-overlay top-position1" data-overlay-dark="7" style={{ backgroundImage: "url('/assets/img/banner/home.jpg')" }}>
+        <section class="page-title-section bg-img cover-background dark-overlay top-position1" data-overlay-dark="7" style={{ backgroundImage: "url('/assets/img/banner/banner-4.jpg')" }}>
             <div class="container">
                 <div class="row text-center justify-content-center">
                     <div class="col-lg-8 col-xxl-5">

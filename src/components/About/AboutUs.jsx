@@ -37,7 +37,7 @@ const AboutUs = () => {
                     </div>
                     <div className="col-lg-6 mt-1-9 order-1 order-lg-2 wow fadeInUp" data-wow-delay="150ms">
                         <div>
-                            <img src="asset/img/content/about-05.jpg" alt="..." />
+                            <img src="assets/img/content/about-05.jpg" alt="..." />
                         </div>
                     </div>
                 </div>
